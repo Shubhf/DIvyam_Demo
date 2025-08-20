@@ -1,0 +1,10 @@
+{
+  "mode": "baseline",
+  "total_cost_usd": 2.6625,
+  "p50_latency_ms": 397.3,
+  "p95_latency_ms": 428.7,
+  "cache_hits": 0,
+  "small_routed": 0,
+  "big_routed": 12,
+  "n": 12
+}

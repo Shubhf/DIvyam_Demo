@@ -1,0 +1,12 @@
+{"id": 1, "prompt": "What is the capital of France?"}
+{"id": 2, "prompt": "Summarize this paragraph about transformer attention and scaling laws."}
+{"id": 3, "prompt": "2+2?"}
+{"id": 4, "prompt": "Explain the trade-offs between quantization and distillation for LLMs."}
+{"id": 5, "prompt": "Convert this list into JSON: apples, bananas, mangoes."}
+{"id": 6, "prompt": "Compare Bayesian inference and frequentist inference with examples."}
+{"id": 7, "prompt": "What is the capital of France?"}
+{"id": 8, "prompt": "Summarize the following: 'Attention is all you need introduced the transformer'."}
+{"id": 9, "prompt": "Write a short Python function to compute Fibonacci numbers."}
+{"id": 10, "prompt": "Explain causal confusion and how to diagnose spurious correlations."}
+{"id": 11, "prompt": "2+2?"}
+{"id": 12, "prompt": "Summarize this paragraph about transformer attention and scaling laws."}

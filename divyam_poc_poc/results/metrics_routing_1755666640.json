@@ -1,0 +1,10 @@
+{
+  "mode": "routing",
+  "total_cost_usd": 0.0019,
+  "p50_latency_ms": 93.7,
+  "p95_latency_ms": 93.7,
+  "cache_hits": 0,
+  "small_routed": 1,
+  "big_routed": 0,
+  "n": 1
+}
